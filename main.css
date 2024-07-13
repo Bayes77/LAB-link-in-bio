@@ -1,11 +1,21 @@
 body {
     background-color: black;
+   
+   
+
+    
+}
+
+.bio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
 
 .btn-primary {
-    color: red;
+    
     justify-content: space-between;
     
 }
@@ -14,7 +24,7 @@ p {
     text-align: center;
 }
 .d-grid {
-    margin-bottom: 100px;
+    ;
     
    
 {
